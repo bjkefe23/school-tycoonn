@@ -1,5 +1,4 @@
 
-_G.enabled = true -- change false or true
 
 --[[
 IronBrew:tm: obfuscation; Version 2.7.2
